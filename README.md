@@ -1,3 +1,4 @@
+# [NEW] Sadly PythonOS broke on the way of uploading the file. Please wait as i re-make it.
 # PythonOS
 PythonOS is a text-based os. PythonOS is made with Python.
 
